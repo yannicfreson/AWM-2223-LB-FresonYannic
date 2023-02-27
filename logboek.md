@@ -6,3 +6,4 @@ _(Android Basics With Compose_ will be referred to as _AWBC)_
 | 9/2/23 | 2 hrs | ABWC - Unit 1 - Pathway 3 | |
 | 14/2/23 | 2.5 hrs | ABWC - Unit 2 - Pathway 1 | |
 | 14/2/23 | 1.5 hrs | ABWC - Unit 2 - Pathway 2 | dice roller app finished |
+| 27/2/23 | 1 hrs | ABWC - Unit 2 - Pathway 2 | lemonade app finished |
