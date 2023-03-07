@@ -20,4 +20,5 @@ _(Android Basics With Compose_ will be referred to as _AWBC)_
 | Date | Time | Subject | Notes |
 |------|------|---------|-------|
 | 28/2/23 | 3 hrs | ABWC - Unit 3 - Pathway 1 | practice finished |
-| | 3 hrs | | |
+| 4/3/23 | 2 hrs | ABWC - Unit 3 - Pathway 2 | |
+| | 5 hrs | | |
