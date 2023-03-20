@@ -29,3 +29,10 @@ _(Android Basics With Compose_ will be referred to as _AWBC)_
 | 7/3/23 | 4 hrs | ABWC - Unit 3 - Pathway 3 | about to start on superheroes app |
 | 10/3/23 | 4? hrs | ABWC - Unit 3 - Pathway 3 | superheroes and 30 days app |
 | | 8? hrs | | |
+
+**Week 5**
+| Date | Time | Subject | Notes |
+|------|------|---------|-------|
+| 3/3/23 | 4 hrs | ABWC - Unit 4 - Pathway 1 | up untill first two videos |
+| 19/3/23 | 5 hrs | ABWC - Unit 4 - Pathway 1 | finished |
+| | 9 hrs | | |
