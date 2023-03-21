@@ -33,6 +33,6 @@ _(Android Basics With Compose_ will be referred to as _AWBC)_
 **Week 5**
 | Date | Time | Subject | Notes |
 |------|------|---------|-------|
-| 13/3/23 | 4 hrs | ABWC - Unit 4 - Pathway 1 | up untill first two videos |
-| 14/3/23 | 5 hrs | ABWC - Unit 4 - Pathway 1 | finished |
+| 13/3/23 | 3 hrs | ABWC - Unit 4 - Pathway 1 | up untill first two videos |
+| 14/3/23 | 6 hrs | ABWC - Unit 4 - Pathway 1 | finished |
 | | 9 hrs | | |
